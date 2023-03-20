@@ -1,1 +1,7 @@
 Practica con Git y GitHub
+git init
+git remote add origin hhtt
+git status
+git add
+git cominnt m-
+git push remote origin master
